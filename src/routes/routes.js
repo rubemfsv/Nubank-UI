@@ -2,15 +2,15 @@ import React from 'react';
 
 import { createStackNavigator } from '@react-navigation/stack';
 
-import Menu from '../pages/Menu';
+import Main from '../pages/Main';
 
 const AppStack = createStackNavigator();
 
 const Routes = () => (
     <AppStack.Navigator>
         <AppStack.Screen 
-            name="Menu"
-            component={Menu}
+            name="Main"
+            component={Main}
             options={{
                 headerShown: false,
               }}
