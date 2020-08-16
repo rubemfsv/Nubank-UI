@@ -1,13 +1,13 @@
 import React from 'react';
-import { View, Text } from 'react-native';
 
-// import { Container } from './styles';
+import { Container } from './styles';
+import Header from '../../components/Header';
 
 function Menu() {
   return (
-    <View>
-      <Text>Oi rs</Text>
-    </View>
+    <Container>
+      <Header />
+    </Container>
   );
 }
 
