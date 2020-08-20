@@ -2,6 +2,7 @@
 
 Mobile Nubank Home UI clone for study purposes.
 
+
 ### What this project covers:
 
 * React Native
@@ -12,3 +13,11 @@ Mobile Nubank Home UI clone for study purposes.
 * Reactotron
 * Styled-components
 * Gesture Handler
+
+### Preview
+
+![video](src/assets/working.gif)
+
+<br>
+
+
